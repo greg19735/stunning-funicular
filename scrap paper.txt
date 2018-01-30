@@ -1,0 +1,9 @@
+##TESTING
+    one = PageMap("origin", "LinkToPage", "LinkToPageStatus", "LinkToPageTitle", "OriginPageDate", "OriginPageTitle")
+    two = PageMap("origin2", "LinkToPage2", "LinkToPageStatus2", "LinkToPageTitle2", "OriginPageDate2",
+                  "OriginPageTitle2")
+
+    pageMapList.append(one)
+    pageMapList.append(two)
+
+##TESTING

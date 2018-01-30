@@ -1,0 +1,5 @@
+OriginPage	LinkToPage	LinkToPageStatus	LinkToPageTitle	OriginPageDate	OriginPageTitle
+
+f = open('helloworld.txt','w')
+f.write('OriginPage	LinkToPage	LinkToPageStatus	LinkToPageTitle	OriginPageDate	OriginPageTitle')
+f.close()

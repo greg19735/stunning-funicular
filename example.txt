@@ -1,0 +1,115 @@
+OriginPage	LinkToPage	LinkToPageStatus	LinkToPageTitle	OriginPageDate	OriginPageTitle
+https://www.epa.gov/fedfac/brac-dashboard	https://www.epa.gov/sites/all/themes/epa/favicon.ico	ok			BRAC Dashboard | Cleanups at Federal Facilities | US EPA
+https://www.epa.gov/fedfac/brac-dashboard	https://www.epa.gov/node/176255	ok			BRAC Dashboard | Cleanups at Federal Facilities | US EPA
+https://www.epa.gov/fedfac/brac-dashboard	https://www.epa.gov/sites/all/modules/contrib/jquery_update/replace/ui/themes/base/minified/jquery.ui.core.min.css?ozif73	ok			BRAC Dashboard | Cleanups at Federal Facilities | US EPA
+https://www.epa.gov/fedfac/brac-dashboard	https://www.epa.gov/sites/all/modules/contrib/jquery_update/replace/ui/themes/base/minified/jquery.ui.menu.min.css?ozif73	ok			BRAC Dashboard | Cleanups at Federal Facilities | US EPA
+https://www.epa.gov/fedfac/brac-dashboard	https://www.epa.gov/sites/all/modules/contrib/jquery_update/replace/ui/themes/base/minified/jquery.ui.autocomplete.min.css?ozif73	ok			BRAC Dashboard | Cleanups at Federal Facilities | US EPA
+https://www.epa.gov/fedfac/brac-dashboard	https://www.epa.gov/sites/all/modules/contrib/date/date_api/date.css?ozif73	ok			BRAC Dashboard | Cleanups at Federal Facilities | US EPA
+https://www.epa.gov/fedfac/brac-dashboard	https://www.epa.gov/sites/all/modules/contrib/environment_indicator/environment_indicator.css?ozif73	ok			BRAC Dashboard | Cleanups at Federal Facilities | US EPA
+https://www.epa.gov/fedfac/brac-dashboard	https://www.epa.gov/sites/all/modules/contrib/picture/picture_wysiwyg.css?ozif73	ok			BRAC Dashboard | Cleanups at Federal Facilities | US EPA
+https://www.epa.gov/fedfac/brac-dashboard	https://www.epa.gov/sites/all/modules/custom/add_definitions/add_definitions.min.css?ozif73	ok			BRAC Dashboard | Cleanups at Federal Facilities | US EPA
+https://www.epa.gov/fedfac/brac-dashboard	https://www.epa.gov/sites/all/themes/epa/css/base.min.css?ozif73	ok			BRAC Dashboard | Cleanups at Federal Facilities | US EPA
+https://www.epa.gov/fedfac/brac-dashboard	https://www.epa.gov/sites/all/themes/epa/css/typography.min.css?ozif73	ok			BRAC Dashboard | Cleanups at Federal Facilities | US EPA
+https://www.epa.gov/fedfac/brac-dashboard	https://www.epa.gov/sites/all/themes/epa/css/drupal.min.css?ozif73	ok			BRAC Dashboard | Cleanups at Federal Facilities | US EPA
+https://www.epa.gov/fedfac/brac-dashboard	https://www.epa.gov/sites/all/themes/epa/css/layout.min.css?ozif73	ok			BRAC Dashboard | Cleanups at Federal Facilities | US EPA
+https://www.epa.gov/fedfac/brac-dashboard	https://www.epa.gov/sites/all/themes/epa/css/core/contextual.min.css?ozif73	ok			BRAC Dashboard | Cleanups at Federal Facilities | US EPA
+https://www.epa.gov/fedfac/brac-dashboard	https://www.epa.gov/sites/all/themes/epa/css/contrib/date.min.css?ozif73	ok			BRAC Dashboard | Cleanups at Federal Facilities | US EPA
+https://www.epa.gov/fedfac/brac-dashboard	https://www.epa.gov/sites/all/themes/epa/css/design.min.css?ozif73	ok			BRAC Dashboard | Cleanups at Federal Facilities | US EPA
+https://www.epa.gov/fedfac/brac-dashboard	https://www.epa.gov/sites/all/themes/epa/css/mobile-menu.min.css?ozif73	ok			BRAC Dashboard | Cleanups at Federal Facilities | US EPA
+https://www.epa.gov/fedfac/brac-dashboard	https://www.epa.gov/sites/all/themes/epa/css/drop-down-menu.min.css?ozif73	ok			BRAC Dashboard | Cleanups at Federal Facilities | US EPA
+https://www.epa.gov/fedfac/brac-dashboard	https://www.epa.gov/sites/all/themes/epa/css/flexslider.min.css?ozif73	ok			BRAC Dashboard | Cleanups at Federal Facilities | US EPA
+https://www.epa.gov/fedfac/brac-dashboard	https://www.epa.gov/sites/all/themes/epa/css/lib/colorbox.min.css?ozif73	ok			BRAC Dashboard | Cleanups at Federal Facilities | US EPA
+https://www.epa.gov/fedfac/brac-dashboard	https://www.epa.gov/sites/all/themes/epa/css/lib/jquery.ui.theme.min.css?ozif73	ok			BRAC Dashboard | Cleanups at Federal Facilities | US EPA
+https://www.epa.gov/fedfac/brac-dashboard	https://www.epa.gov/newsreleases/search/rss	ok			BRAC Dashboard | Cleanups at Federal Facilities | US EPA
+https://www.epa.gov/fedfac/brac-dashboard	https://www.epa.gov/newsreleases/search/rss/field_press_office/headquarters	ok			BRAC Dashboard | Cleanups at Federal Facilities | US EPA
+https://www.epa.gov/fedfac/brac-dashboard	https://blog.epa.gov/blog/feed/	ok			BRAC Dashboard | Cleanups at Federal Facilities | US EPA
+https://www.epa.gov/fedfac/brac-dashboard	https://www.epa.gov/feed/29021/rss.xml	ok			BRAC Dashboard | Cleanups at Federal Facilities | US EPA
+https://www.epa.gov/fedfac/brac-dashboard	https://www.googletagmanager.com/ns.html?id=GTM-L8ZB	ok			BRAC Dashboard | Cleanups at Federal Facilities | US EPA
+https://www.epa.gov/fedfac/brac-dashboard	https://www.epa.gov/	ok	EPA.gov		BRAC Dashboard | Cleanups at Federal Facilities | US EPA
+https://www.epa.gov/fedfac/brac-dashboard	https://archive.epa.gov/	ok	EPA Web Archive		BRAC Dashboard | Cleanups at Federal Facilities | US EPA
+https://www.epa.gov/fedfac/brac-dashboard	https://19january2017snapshot.epa.gov/	ok	January 19, 2017 Web Snapshot		BRAC Dashboard | Cleanups at Federal Facilities | US EPA
+https://www.epa.gov/fedfac/brac-dashboard	https://www.epa.gov/sites/all/themes/epa/logo.png	ok			BRAC Dashboard | Cleanups at Federal Facilities | US EPA
+https://www.epa.gov/fedfac/brac-dashboard	https://www.epa.gov/fedfac	ok	Cleanups at Federal Facilities		BRAC Dashboard | Cleanups at Federal Facilities | US EPA
+https://www.epa.gov/fedfac/brac-dashboard	https://www.epa.gov/fedfac/forms/contact-us-about-federal-facility-cleanups	ok	Contact Us		BRAC Dashboard | Cleanups at Federal Facilities | US EPA
+https://www.epa.gov/fedfac/brac-dashboard	https://www.facebook.com/sharer.php?u=https://www.epa.gov/fedfac/brac-dashboard&t=BRAC Dashboard	ok	       <svg class="icon icon--social-link" aria-hidden="true">         <use xlink:href="/sites/all/themes/epa/img/svg/small-icons.svg#small-facebook" />       </svg>     		BRAC Dashboard | Cleanups at Federal Facilities | US EPA
+https://www.epa.gov/fedfac/brac-dashboard	https://twitter.com/intent/tweet?original_referer=https://www.epa.gov/fedfac/brac-dashboard&text=BRAC Dashboard&url=https://www.epa.gov/fedfac/brac-dashboard&via=EPA&count=none&lang=en	ok	       <svg class="icon icon--social-link" aria-hidden="true">         <use xlink:href="/sites/all/themes/epa/img/svg/small-icons.svg#small-twitter" />       </svg>     		BRAC Dashboard | Cleanups at Federal Facilities | US EPA
+https://www.epa.gov/fedfac/brac-dashboard	https://pinterest.com/pin/create/button/?url=https://www.epa.gov/fedfac/brac-dashboard&description=BRAC Dashboard&media=https://www.epa.gov/sites/all/themes/epa/img/epa-seal.png	ok	       <svg class="icon icon--social-link" aria-hidden="true">         <use xlink:href="/sites/all/themes/epa/img/svg/small-icons.svg#small-pinterest" />       </svg>     		BRAC Dashboard | Cleanups at Federal Facilities | US EPA
+https://www.epa.gov/fedfac/brac-dashboard	mailto:@ 	no such host	       <svg class="icon icon--social-link" aria-hidden="true">         <use xlink:href="/sites/all/themes/epa/img/svg/small-icons.svg#small-email" />       </svg>     		BRAC Dashboard | Cleanups at Federal Facilities | US EPA
+https://www.epa.gov/fedfac/brac-dashboard	https://help.qlik.com/en-US/sense/3.1/Subsystems/Hub/Content/Sheets/sheet-view.htm	ok	Qliksense Help		BRAC Dashboard | Cleanups at Federal Facilities | US EPA
+https://www.epa.gov/fedfac/brac-dashboard	https://www.epa.gov/environmental-topics	ok	Environmental Topics		BRAC Dashboard | Cleanups at Federal Facilities | US EPA
+https://www.epa.gov/fedfac/brac-dashboard	https://www.epa.gov/environmental-topics/air-topics	ok	Air		BRAC Dashboard | Cleanups at Federal Facilities | US EPA
+https://www.epa.gov/fedfac/brac-dashboard	https://www.epa.gov/bedbugs	ok	Bed Bugs		BRAC Dashboard | Cleanups at Federal Facilities | US EPA
+https://www.epa.gov/fedfac/brac-dashboard	https://www.epa.gov/environmental-topics/chemicals-and-toxics-topics	ok	Chemicals and Toxics		BRAC Dashboard | Cleanups at Federal Facilities | US EPA
+https://www.epa.gov/fedfac/brac-dashboard	https://www.epa.gov/environmental-topics/environmental-information-location	ok	Environmental Information by Location		BRAC Dashboard | Cleanups at Federal Facilities | US EPA
+https://www.epa.gov/fedfac/brac-dashboard	https://www.epa.gov/environmental-topics/greener-living	ok	Greener Living		BRAC Dashboard | Cleanups at Federal Facilities | US EPA
+https://www.epa.gov/fedfac/brac-dashboard	https://www.epa.gov/environmental-topics/health-topics	ok	Health		BRAC Dashboard | Cleanups at Federal Facilities | US EPA
+https://www.epa.gov/fedfac/brac-dashboard	https://www.epa.gov/environmental-topics/land-waste-and-cleanup-topics	ok	Land, Waste, and Cleanup		BRAC Dashboard | Cleanups at Federal Facilities | US EPA
+https://www.epa.gov/fedfac/brac-dashboard	https://www.epa.gov/lead	ok	Lead		BRAC Dashboard | Cleanups at Federal Facilities | US EPA
+https://www.epa.gov/fedfac/brac-dashboard	https://www.epa.gov/mold	ok	Mold		BRAC Dashboard | Cleanups at Federal Facilities | US EPA
+https://www.epa.gov/fedfac/brac-dashboard	https://www.epa.gov/pesticides	ok	Pesticides		BRAC Dashboard | Cleanups at Federal Facilities | US EPA
+https://www.epa.gov/fedfac/brac-dashboard	https://www.epa.gov/radon	ok	Radon		BRAC Dashboard | Cleanups at Federal Facilities | US EPA
+https://www.epa.gov/fedfac/brac-dashboard	https://www.epa.gov/environmental-topics/science-topics	ok	Science		BRAC Dashboard | Cleanups at Federal Facilities | US EPA
+https://www.epa.gov/fedfac/brac-dashboard	https://www.epa.gov/environmental-topics/water-topics	ok	Water		BRAC Dashboard | Cleanups at Federal Facilities | US EPA
+https://www.epa.gov/fedfac/brac-dashboard	https://www.epa.gov/environmental-topics/z-index	ok	A-Z Index		BRAC Dashboard | Cleanups at Federal Facilities | US EPA
+https://www.epa.gov/fedfac/brac-dashboard	https://www.epa.gov/laws-regulations	ok	Laws &amp; Regulations		BRAC Dashboard | Cleanups at Federal Facilities | US EPA
+https://www.epa.gov/fedfac/brac-dashboard	https://www.epa.gov/regulatory-information-sector	ok	By Business Sector		BRAC Dashboard | Cleanups at Federal Facilities | US EPA
+https://www.epa.gov/fedfac/brac-dashboard	https://www.epa.gov/regulatory-information-topic	ok	By Topic		BRAC Dashboard | Cleanups at Federal Facilities | US EPA
+https://www.epa.gov/fedfac/brac-dashboard	https://www.epa.gov/compliance	ok	Compliance		BRAC Dashboard | Cleanups at Federal Facilities | US EPA
+https://www.epa.gov/fedfac/brac-dashboard	https://www.epa.gov/enforcement	ok	Enforcement		BRAC Dashboard | Cleanups at Federal Facilities | US EPA
+https://www.epa.gov/fedfac/brac-dashboard	https://www.epa.gov/laws-regulations/laws-and-executive-orders	ok	Laws and Executive Orders		BRAC Dashboard | Cleanups at Federal Facilities | US EPA
+https://www.epa.gov/fedfac/brac-dashboard	https://www.epa.gov/laws-regulations/policy-guidance	ok	Policy and Guidance		BRAC Dashboard | Cleanups at Federal Facilities | US EPA
+https://www.epa.gov/fedfac/brac-dashboard	https://www.epa.gov/laws-regulations/regulations	ok	Regulations		BRAC Dashboard | Cleanups at Federal Facilities | US EPA
+https://www.epa.gov/fedfac/brac-dashboard	https://www.epa.gov/aboutepa	ok	About EPA		BRAC Dashboard | Cleanups at Federal Facilities | US EPA
+https://www.epa.gov/fedfac/brac-dashboard	https://www.epa.gov/aboutepa/epas-administrator	ok	EPA Administrator		BRAC Dashboard | Cleanups at Federal Facilities | US EPA
+https://www.epa.gov/fedfac/brac-dashboard	https://www.epa.gov/aboutepa/current-epa-leadership	ok	Current Leadership		BRAC Dashboard | Cleanups at Federal Facilities | US EPA
+https://www.epa.gov/fedfac/brac-dashboard	https://www.epa.gov/aboutepa/epa-organization-chart	ok	Organization Chart		BRAC Dashboard | Cleanups at Federal Facilities | US EPA
+https://www.epa.gov/fedfac/brac-dashboard	http://cfpub.epa.gov/locator/index.cfm	ok	Staff Directory		BRAC Dashboard | Cleanups at Federal Facilities | US EPA
+https://www.epa.gov/fedfac/brac-dashboard	https://www.epa.gov/planandbudget	ok	Planning, Budget and Results		BRAC Dashboard | Cleanups at Federal Facilities | US EPA
+https://www.epa.gov/fedfac/brac-dashboard	https://www.epa.gov/careers	ok	Jobs and Internships		BRAC Dashboard | Cleanups at Federal Facilities | US EPA
+https://www.epa.gov/fedfac/brac-dashboard	https://www.epa.gov/accessibility	ok	Accessibility		BRAC Dashboard | Cleanups at Federal Facilities | US EPA
+https://www.epa.gov/fedfac/brac-dashboard	https://www.epa.gov/contracts	ok	Contracting		BRAC Dashboard | Cleanups at Federal Facilities | US EPA
+https://www.epa.gov/fedfac/brac-dashboard	https://www.epa.gov/home/grants-and-other-funding-opportunities	ok	Grants		BRAC Dashboard | Cleanups at Federal Facilities | US EPA
+https://www.epa.gov/fedfac/brac-dashboard	https://www.epa.gov/ocr/whistleblower-protections-epa-and-how-they-relate-non-disclosure-agreements-signed-epa-employees	ok	No FEAR Act Data		BRAC Dashboard | Cleanups at Federal Facilities | US EPA
+https://www.epa.gov/fedfac/brac-dashboard	https://www.epa.gov/privacy	ok	Privacy		BRAC Dashboard | Cleanups at Federal Facilities | US EPA
+https://www.epa.gov/fedfac/brac-dashboard	https://www.epa.gov/privacy/privacy-and-security-notice	ok	Privacy and Security Notice		BRAC Dashboard | Cleanups at Federal Facilities | US EPA
+https://www.epa.gov/fedfac/brac-dashboard	https://www.data.gov/	ok	Data.gov		BRAC Dashboard | Cleanups at Federal Facilities | US EPA
+https://www.epa.gov/fedfac/brac-dashboard	https://www.epa.gov/office-inspector-general/about-epas-office-inspector-general	ok	Inspector General		BRAC Dashboard | Cleanups at Federal Facilities | US EPA
+https://www.epa.gov/fedfac/brac-dashboard	https://www.epa.gov/newsroom	ok	Newsroom		BRAC Dashboard | Cleanups at Federal Facilities | US EPA
+https://www.epa.gov/fedfac/brac-dashboard	https://www.epa.gov/open	ok	Open Government		BRAC Dashboard | Cleanups at Federal Facilities | US EPA
+https://www.epa.gov/fedfac/brac-dashboard	https://www.regulations.gov/	ok	Regulations.gov		BRAC Dashboard | Cleanups at Federal Facilities | US EPA
+https://www.epa.gov/fedfac/brac-dashboard	https://www.epa.gov/newsroom/email-subscriptions	ok	Subscribe		BRAC Dashboard | Cleanups at Federal Facilities | US EPA
+https://www.epa.gov/fedfac/brac-dashboard	https://www.usa.gov/	ok	USA.gov		BRAC Dashboard | Cleanups at Federal Facilities | US EPA
+https://www.epa.gov/fedfac/brac-dashboard	https://www.whitehouse.gov/	ok	White House		BRAC Dashboard | Cleanups at Federal Facilities | US EPA
+https://www.epa.gov/fedfac/brac-dashboard	https://www.epa.gov/home/forms/contact-us	ok	Contact Us		BRAC Dashboard | Cleanups at Federal Facilities | US EPA
+https://www.epa.gov/fedfac/brac-dashboard	https://www.epa.gov/home/epa-hotlines	ok	Hotlines		BRAC Dashboard | Cleanups at Federal Facilities | US EPA
+https://www.epa.gov/fedfac/brac-dashboard	https://www.epa.gov/foia	ok	FOIA Requests		BRAC Dashboard | Cleanups at Federal Facilities | US EPA
+https://www.epa.gov/fedfac/brac-dashboard	https://www.epa.gov/home/frequent-questions-specific-epa-programstopics	ok	Frequent Questions		BRAC Dashboard | Cleanups at Federal Facilities | US EPA
+https://www.epa.gov/fedfac/brac-dashboard	https://www.facebook.com/EPA	ok	Facebook		BRAC Dashboard | Cleanups at Federal Facilities | US EPA
+https://www.epa.gov/fedfac/brac-dashboard	https://twitter.com/epa	ok	Twitter		BRAC Dashboard | Cleanups at Federal Facilities | US EPA
+https://www.epa.gov/fedfac/brac-dashboard	https://www.youtube.com/user/USEPAgov	ok	YouTube		BRAC Dashboard | Cleanups at Federal Facilities | US EPA
+https://www.epa.gov/fedfac/brac-dashboard	https://www.flickr.com/photos/usepagov	ok	Flickr		BRAC Dashboard | Cleanups at Federal Facilities | US EPA
+https://www.epa.gov/fedfac/brac-dashboard	https://www.instagram.com/epagov	ok	Instagram		BRAC Dashboard | Cleanups at Federal Facilities | US EPA
+https://www.epa.gov/fedfac/brac-dashboard	https://www.epa.gov/sites/all/modules/contrib/jquery_update/replace/jquery/1.7/jquery.min.js?v=1.7.2	ok			BRAC Dashboard | Cleanups at Federal Facilities | US EPA
+https://www.epa.gov/fedfac/brac-dashboard	https://www.epa.gov/misc/jquery.once.js?v=1.2	ok			BRAC Dashboard | Cleanups at Federal Facilities | US EPA
+https://www.epa.gov/fedfac/brac-dashboard	https://www.epa.gov/misc/drupal.js?ozif73	ok			BRAC Dashboard | Cleanups at Federal Facilities | US EPA
+https://www.epa.gov/fedfac/brac-dashboard	https://www.epa.gov/sites/all/modules/contrib/jquery_update/replace/ui/ui/minified/jquery.ui.core.min.js?v=1.10.2	ok			BRAC Dashboard | Cleanups at Federal Facilities | US EPA
+https://www.epa.gov/fedfac/brac-dashboard	https://www.epa.gov/sites/all/modules/contrib/jquery_update/replace/ui/ui/minified/jquery.ui.widget.min.js?v=1.10.2	ok			BRAC Dashboard | Cleanups at Federal Facilities | US EPA
+https://www.epa.gov/fedfac/brac-dashboard	https://www.epa.gov/sites/all/modules/contrib/jquery_update/replace/ui/ui/minified/jquery.ui.position.min.js?v=1.10.2	ok			BRAC Dashboard | Cleanups at Federal Facilities | US EPA
+https://www.epa.gov/fedfac/brac-dashboard	https://www.epa.gov/sites/all/modules/contrib/jquery_update/replace/ui/ui/minified/jquery.ui.menu.min.js?v=1.10.2	ok			BRAC Dashboard | Cleanups at Federal Facilities | US EPA
+https://www.epa.gov/fedfac/brac-dashboard	https://www.epa.gov/sites/all/modules/contrib/jquery_update/replace/ui/ui/minified/jquery.ui.autocomplete.min.js?v=1.10.2	ok			BRAC Dashboard | Cleanups at Federal Facilities | US EPA
+https://www.epa.gov/fedfac/brac-dashboard	https://www.epa.gov/sites/all/modules/contrib/picture/picturefill2/picturefill.js?v=2.0	ok			BRAC Dashboard | Cleanups at Federal Facilities | US EPA
+https://www.epa.gov/fedfac/brac-dashboard	https://www.epa.gov/sites/all/modules/contrib/picture/picture.js?v=7.56	ok			BRAC Dashboard | Cleanups at Federal Facilities | US EPA
+https://www.epa.gov/fedfac/brac-dashboard	https://www.epa.gov/sites/all/libraries/hoverIntent/jquery.hoverIntent.js?ozif73	ok			BRAC Dashboard | Cleanups at Federal Facilities | US EPA
+https://www.epa.gov/fedfac/brac-dashboard	https://www.epa.gov/sites/all/modules/contrib/environment_indicator/tinycon.min.js?ozif73	ok			BRAC Dashboard | Cleanups at Federal Facilities | US EPA
+https://www.epa.gov/fedfac/brac-dashboard	https://www.epa.gov/sites/all/modules/contrib/environment_indicator/environment_indicator.js?ozif73	ok			BRAC Dashboard | Cleanups at Federal Facilities | US EPA
+https://www.epa.gov/fedfac/brac-dashboard	https://www.epa.gov/sites/all/modules/contrib/environment_indicator/color.js?ozif73	ok			BRAC Dashboard | Cleanups at Federal Facilities | US EPA
+https://www.epa.gov/fedfac/brac-dashboard	https://www.epa.gov/sites/all/modules/custom/epa_wysiwyg/epa_wysiwyg.js?ozif73	ok			BRAC Dashboard | Cleanups at Federal Facilities | US EPA
+https://www.epa.gov/fedfac/brac-dashboard	https://www.epa.gov/sites/all/modules/custom/epa_core/js/alert.js?ozif73	ok			BRAC Dashboard | Cleanups at Federal Facilities | US EPA
+https://www.epa.gov/fedfac/brac-dashboard	https://www.epa.gov/sites/all/libraries/tablesorter/jquery.tablesorter.min.js?ozif73	ok			BRAC Dashboard | Cleanups at Federal Facilities | US EPA
+https://www.epa.gov/fedfac/brac-dashboard	https://www.epa.gov/sites/all/modules/custom/epa_core/js/search-autocomplete.min.js?ozif73	ok			BRAC Dashboard | Cleanups at Federal Facilities | US EPA
+https://www.epa.gov/fedfac/brac-dashboard	https://www.epa.gov/sites/all/modules/custom/add_definitions/add_definitions.min.js?ozif73	ok			BRAC Dashboard | Cleanups at Federal Facilities | US EPA
+https://www.epa.gov/fedfac/brac-dashboard	https://www.epa.gov/sites/all/themes/epa/js/script.min.js?ozif73	ok			BRAC Dashboard | Cleanups at Federal Facilities | US EPA
+https://www.epa.gov/fedfac/brac-dashboard	https://www.epa.gov/sites/all/themes/epa/js/mobile-menu.min.js?ozif73	ok			BRAC Dashboard | Cleanups at Federal Facilities | US EPA
+https://www.epa.gov/fedfac/brac-dashboard	https://www.epa.gov/sites/all/themes/epa/js/drop-down-menu.min.js?ozif73	ok			BRAC Dashboard | Cleanups at Federal Facilities | US EPA
+https://www.epa.gov/fedfac/brac-dashboard	https://www.epa.gov/sites/all/themes/epa/js/svgxuse.min.js?ozif73	ok			BRAC Dashboard | Cleanups at Federal Facilities | US EPA
+https://www.epa.gov/fedfac/brac-dashboard	https://www.epa.gov/sites/all/libraries/colorbox/colorbox/jquery.colorbox-min.js	ok			BRAC Dashboard | Cleanups at Federal Facilities | US EPA
